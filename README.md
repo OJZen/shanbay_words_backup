@@ -19,6 +19,9 @@
 
 由两个部分组成，生词与词意的列表与单个生词集合。
 
+!(生词与词意列表)[https://github.com/OJZen/shanbay_words_backup/blob/main/img/1.png?raw=true]
+
+!(单个生词集合)[https://github.com/OJZen/shanbay_words_backup/blob/main/img/2.png?raw=true]
 
 ## 为什么使用Node.js
 
